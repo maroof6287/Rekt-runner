@@ -1,0 +1,31 @@
+{
+  "accountAssociation": {
+    "header": "TODO_REPLACE_BASE64_HEADER",
+    "payload": "TODO_REPLACE_BASE64_PAYLOAD",
+    "signature": "TODO_REPLACE_BASE64_SIGNATURE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "TheRektRunner",
+    "homeUrl": "https://thererktrunner.xyz/",
+    "iconUrl": "https://thererktrunner.xyz/assets/icon.png",
+    "splashImageUrl": "https://thererktrunner.xyz/assets/splash.png",
+    "splashBackgroundColor": "#020617",
+    "subtitle": "Run the volatility.",
+    "description": "An infinite runner inside a live trading chart. Jump the crashes. Ride the pumps.",
+    "primaryCategory": "Games",
+    "tags": [
+      "fun",
+      "simple",
+      "utility"
+    ],
+    "heroImageUrl": "https://thererktrunner.xyz/assets/hero.png",
+    "ogTitle": "TheRektRunner",
+    "ogDescription": "Run the volatility.",
+    "ogImageUrl": "https://thererktrunner.xyz/assets/hero.png",
+    "screenshotUrls": [
+      "https://thererktrunner.xyz/assets/hero.png"
+    ],
+    "noindex": true
+  }
+}
